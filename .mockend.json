@@ -1,5 +1,8 @@
 {
   "User": {
     "title": { "string": {} }
+  },
+  "Login": {
+    "success": { "boolean": {} }
   }
 }
